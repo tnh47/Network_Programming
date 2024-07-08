@@ -1,0 +1,33 @@
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\bin\Debug\Home.exe.config
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\bin\Debug\Home.exe
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\bin\Debug\Home.pdb
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.csproj.SuggestedBindingRedirects.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Bai2.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Bai4_Client.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Bai4_Server.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Home.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Properties.Resources.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.csproj.GenerateResource.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.exe
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.pdb
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Bai1_Client.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Bai1_Server.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab3\Home\obj\Debug\Home.Bai3_Client.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\bin\Debug\Home.exe.config
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\bin\Debug\Home.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\bin\Debug\Home.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Bai1_Client.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Bai1_Server.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Bai2.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Bai3_Client.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Bai4_Client.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Home.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Properties.Resources.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.csproj.GenerateResource.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab3\Lab3\Home\obj\Debug\Home.Bai4_Sever.resources

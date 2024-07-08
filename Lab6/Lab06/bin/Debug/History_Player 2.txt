@@ -1,0 +1,65 @@
+>>> 8:22:38 AM - Player 2 connected to Server... <<<
+
+>>> Player 2 đã sẵn sàng!
+>>> Player 1 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 6 round
+>>> Round 1: Đoán một số trong khoảng [46, 70].
+Không ai có đáp án chính xác
+Đáp án là: 67.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [10, 11].
+Player 1 đoán sai! (10). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 11.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [12, 27].
+Player 2 đoán sai! (25). -1 điểm
+Player 1 đoán sai! (14). -1 điểm
+Player 2 đoán sai! (15). -1 điểm
+Player 1 đoán sai! (25). -1 điểm
+Player 2 đoán sai! (23). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 19.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [44, 73].
+Player 2 đoán sai! (63). -1 điểm
+Player 1 đoán sai! (50). -1 điểm
+Player 1 đoán sai! (54). -1 điểm
+Player 2 đoán sai! (53). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 55.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [42, 62].
+Player 2 đoán sai! (42). -1 điểm
+Player 1 đoán sai! (53). -1 điểm
+Player 2 đoán sai! (54). -1 điểm
+Player 1 đoán sai! (49). -1 điểm
+Player 2 đoán sai! (53). -1 điểm
+Player 1 đoán sai! (58). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 52.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [36, 48].
+Player 2 đoán sai! (37). -1 điểm
+Player 1 đoán sai! (46). -1 điểm
+Player 2 đoán sai! (36). -1 điểm
+Player 1 đoán sai! (37). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 43.
+------------------------------
+Điểm cao nhất là: -10
+  + Player 1
+  + Player 2
+Điểm của bạn: -10
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> Player 1 đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+

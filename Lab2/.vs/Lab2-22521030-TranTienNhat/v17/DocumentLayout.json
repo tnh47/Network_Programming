@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|d:\\uit\\ky4\\laptrinhmangcanban\\th\\lab2-22521030-trantiennhat\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|d:\\uit\\ky4\\laptrinhmangcanban\\th\\lab2-22521030-trantiennhat\\lab2-bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|solutionrelative:lab2-bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\lab2-bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|solutionrelative:lab2-bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\lab2-bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|solutionrelative:lab2-bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1899A43A-7105-4C6C-B292-A344DC3A6FC3}|Lab2-22521030-TranTienNhat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:00:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab2-Bai3.cs",
+              "DocumentMoniker": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Lab2-Bai3.cs",
+              "RelativeDocumentMoniker": "Lab2-Bai3.cs",
+              "ToolTip": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Lab2-Bai3.cs",
+              "RelativeToolTip": "Lab2-Bai3.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:56:33.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab2-Bai2.cs",
+              "DocumentMoniker": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Lab2-Bai2.cs",
+              "RelativeDocumentMoniker": "Lab2-Bai2.cs",
+              "ToolTip": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Lab2-Bai2.cs",
+              "RelativeToolTip": "Lab2-Bai2.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:56:13.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab2-Bai4.cs",
+              "DocumentMoniker": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Lab2-Bai4.cs",
+              "RelativeDocumentMoniker": "Lab2-Bai4.cs",
+              "ToolTip": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Lab2-Bai4.cs",
+              "RelativeToolTip": "Lab2-Bai4.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAuwLoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:51:52.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UIT\\Ky4\\Laptrinhmangcanban\\TH\\Lab2-22521030-TranTienNhat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:42:10.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

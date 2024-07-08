@@ -1,0 +1,25 @@
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.csproj.AssemblyReference.cache
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Lab2_Bai1.resources
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Properties.Resources.resources
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.csproj.GenerateResource.cache
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.csproj.CoreCompileInputs.cache
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\bin\Debug\Lab2-22521030-TranTienNhat.exe.config
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\bin\Debug\Lab2-22521030-TranTienNhat.exe
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\bin\Debug\Lab2-22521030-TranTienNhat.pdb
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.exe
+D:\UIT\Ky4\Lập trình mạng căn bản\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\bin\Debug\Lab2-22521030-TranTienNhat.exe.config
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\bin\Debug\Lab2-22521030-TranTienNhat.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\bin\Debug\Lab2-22521030-TranTienNhat.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.csproj.AssemblyReference.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Lab2_Bai1.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Properties.Resources.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.csproj.GenerateResource.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.csproj.CoreCompileInputs.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2-22521030-TranTienNhat.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Lab2_Bai2.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Lab2_Bai3.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Lab2_Bai4.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Lab2_Bai5.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab2-22521030-TranTienNhat\obj\Debug\Lab2_22521030_TranTienNhat.Menu.resources

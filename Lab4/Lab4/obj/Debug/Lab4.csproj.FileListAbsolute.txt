@@ -1,0 +1,34 @@
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Bai1.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Bai2.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Bai3.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Bai4.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Bai4_Download.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Home.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.Bai4_ViewCode.resources
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Năm 2\Lập trình mạng căn bản\TH\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Clone\NT106\NT106_new\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Clone\NT106\NT106_new\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Clone\NT106\NT106_new\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Bai1.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Bai2.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Bai3.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Bai4.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Bai4_Download.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Bai4_ViewCode.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Home.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Clone\NT106\NT106_new\Lab4\Lab4\obj\Debug\Lab4.pdb

@@ -1,0 +1,131 @@
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\bin\Debug\Lab06.exe.config
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\bin\Debug\Lab06.exe
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\bin\Debug\Lab06.pdb
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\bin\Debug\Guna.UI2.dll
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.csproj.SuggestedBindingRedirects.cache
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.saveHistory.resources
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.startForm.resources
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.mainForm.resources
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.csproj.CopyComplete
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.exe
+D:\Course\Lập trình mạng\NT106.N21.ANTT-All_Lab\Lab06\obj\Debug\Lab06.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\Lab06.exe.config
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\Lab06.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\Lab06.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\Guna.UI2.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.saveHistory.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.startForm.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.mainForm.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.csproj.Up2Date
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\obj\Debug\Lab06.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.Core.Runtime.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.Core.Runtime.xml
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\chrome_100_percent.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\chrome_200_percent.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\chrome_elf.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\d3dcompiler_47.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\icudtl.dat
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\libcef.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\libEGL.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\libGLESv2.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\resources.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\snapshot_blob.bin
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\v8_context_snapshot.bin
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\vk_swiftshader.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\vk_swiftshader_icd.json
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\vulkan-1.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\af.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\am.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ar.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\bg.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\bn.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ca.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\cs.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\da.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\de.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\el.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\en-GB.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\en-US.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\es-419.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\es.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\et.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\fa.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\fi.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\fil.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\fr.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\gu.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\he.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\hi.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\hr.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\hu.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\id.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\it.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ja.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\kn.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ko.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\lt.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\lv.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ml.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\mr.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ms.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\nb.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\nl.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\pl.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\pt-BR.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\pt-PT.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ro.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ru.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\sk.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\sl.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\sr.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\sv.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\sw.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ta.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\te.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\th.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\tr.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\uk.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\ur.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\vi.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\zh-CN.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\locales\zh-TW.pak
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.Core.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.xml
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.Core.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\CefSharp.Core.xml
+D:\UIT\Ky4\Laptrinhmangcanban\TH\Lab06\bin\Debug\Newtonsoft.Json.xml
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\bin\Debug\Lab06.exe.config
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\bin\Debug\Lab06.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\bin\Debug\Lab06.pdb
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\bin\Debug\Guna.UI2.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\bin\Debug\Newtonsoft.Json.xml
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.SaveHistory.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.startForm.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.mainForm.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.csproj.Up2Date
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.exe
+D:\UIT\Ky4\Laptrinhmangcanban\TH\22520951-LeQuocNgo_22521030-TranTienNhat\Lab06\obj\Debug\Lab06.pdb
